@@ -1,3 +1,5 @@
+![header](https://user-images.githubusercontent.com/95597283/194849236-c3f5601f-b502-4ef5-8224-34b037971bfb.jpg)
+
 ## Data Collection
 
  - [High-frequency trading in a limit order book](https://www.math.nyu.edu/faculty/avellane/HighFrequencyTrading.pdf), Avellaneda and Stoikov, Quantitative Finance, Vol. 8, No. 3, April 2008, 217–224
