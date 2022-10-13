@@ -26,8 +26,16 @@
 - [Quantitative Equity Portfolio Management: Modern Techniques and Applications](https://www.crcpress.com/Quantitative-Equity-Portfolio-Management-Modern-Techniques-and-Applications/Qian-Hua-Sorensen/p/book/9781584885580) by Edward Qian, Ronald Hua, and Eric Sorensen
 - [Spearman Rank Correlation](https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php)
 
-## Model Development
+## Deep Learning
 
+- [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016
+- [Deep learning](https://www.nature.com/articles/nature14539), Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, Nature 2015
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Michael A. Nielsen, Determination Press, 2015
+- [The Quest for Artificial Intelligence - A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf), Nils J. Nilsson, Cambridge University Press, 2010
+- [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/)
+- [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.71056&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false), Interactive, browser-based Deep Learning platform
+- [Gradient Checking & Advanced Optimization](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization), Unsupervised Feature Learning and Deep Learning, Stanford University
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html#momentum), Sebastian Ruder, 2016
 
 ### 
 
